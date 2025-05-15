@@ -12,3 +12,10 @@ Welcome to my Power BI project repository! This dashboard was built using a fict
 This dashboard helps track key sales metrics such as revenue, profit, sales margin, and performance across categories, segments, and geographic regions. It is designed to enable business stakeholders to gain actionable insights and make data-driven decisions.
 
 ---
+
+
+
+
+
+
+Dataset Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
