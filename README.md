@@ -36,7 +36,8 @@ This dashboard helps track key sales metrics such as revenue, profit, sales marg
 | `Dashboard_Sample.png` | Overview of the report layout |
 | `Dashboard_Sample_1.png` | Example of visual drill-down |
 | `Dashboard_Sample_2.png` | Example of visual drill-down |
-| `Sales-Dashboard.md` | Summary write-up of the project |
+| `Read_Me.md` | Summary write-up of the project |
+| `Sample - SuperStore.CSV` | Sample Data Set |
 ---
 
 ## 📸 Sample Screenshot
